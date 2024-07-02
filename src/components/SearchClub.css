@@ -1,0 +1,9 @@
+.search-club-form {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+    max-width: 250px;
+    margin: 0 auto; 
+  }
+  

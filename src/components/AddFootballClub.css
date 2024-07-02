@@ -1,0 +1,20 @@
+.add-club-form {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  max-width: 250px;
+  margin-bottom: 20px;
+}
+
+.add-club-button {
+  transition: transform 0.3s ease, background-color 0.3s ease;
+  height: 36px; 
+  align-items: center;
+  display: flex;
+}
+
+.add-club-button:hover {
+  transform: scale(1.1);
+  background-color: #28a745;
+}
